@@ -1,0 +1,35 @@
+{
+  "name": "cron-expression-validator",
+  "description": "Validate cron expressions",
+  "main": "index.js",
+  "authors": [
+    "Jap"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "cron",
+    "cron-validation",
+    "validation",
+    "cron-expression-validator",
+    "cron",
+    "validation",
+    "error",
+    "message",
+    "error",
+    "message",
+    "node",
+    "cron",
+    "node-cron",
+    "quartz",
+    "cron-expression",
+    "node.js"
+  ],
+  "homepage": "https://github.com/Japo007/cron-expression-validator",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
